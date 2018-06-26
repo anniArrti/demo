@@ -17,3 +17,8 @@ const port = process.env.PORT || 8080;
 app.set('port', port);
 const server = http.createServer(app);
 server.listen(port, () => console.log('Running'));
+
+/*https://medium.com/@ervib/deploy-angular-4-app-with-express-to-heroku-6113146915ca
+https://dashboard.heroku.com/
+https://github.com/anniArrti/office
+https://blog.angular-university.io/angular-service-worker*/
