@@ -25,7 +25,7 @@
     "@angular/pwa": "^0.6.8",
     "@angular/router": "^6.0.3",
     "core-js": "^2.5.4",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "ng-push": "^0.2.2",
     "ng-push-notification": "^1.1.0",
     "rxjs": "^6.2.1",
